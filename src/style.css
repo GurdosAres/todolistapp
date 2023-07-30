@@ -38,7 +38,9 @@
     color: #0494fa;
 }
 .button-item:hover{
-    background-color: rgb(46, 89, 118);
+    background-color: #0494fa;
+    color: rgb(38, 73, 97);
+    border: 2px solid rgb(38, 73, 97);
 }
 :root{
     background-color: rgb(28, 52, 68);
