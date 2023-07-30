@@ -19,6 +19,7 @@
     height: 1.3rem;
     background-color: #2a628f;
     border: 0;
+    color: #f6f6f6;
     border-radius: 3px;
 }
 .input-item:focus{
