@@ -62,7 +62,7 @@
     align-content: center;
     align-items: center;
     margin-bottom: 5px;
-    color: #f6f6f6;
+    color: red;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .task-item label{
